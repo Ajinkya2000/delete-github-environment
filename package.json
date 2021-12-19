@@ -3,10 +3,16 @@
   "version": "1.0.0",
   "description": "Delete environments from Github UI",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "github",
+    "github environment",
+    "delete environment",
+    "delete github environment"
+  ],
   "author": "Ajinkya Deshpande",
   "license": "MIT",
   "dependencies": {
