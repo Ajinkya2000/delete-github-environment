@@ -1,6 +1,6 @@
 {
-  "name": "delete-github-environments",
-  "version": "1.0.0",
+  "name": "delete-github-environment",
+  "version": "1.0.1",
   "description": "Delete environments from Github UI",
   "publishConfig": {
     "access": "public"
