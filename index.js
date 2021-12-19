@@ -6,7 +6,6 @@ const {
   deleteEnvironment,
   success,
 } = require("./src/removeEnvironment");
-// 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
 
 // Validations
 const validation = require("./validations");
