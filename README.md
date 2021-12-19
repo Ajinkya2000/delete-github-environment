@@ -14,5 +14,5 @@ Check [here](https://docs.github.com/en/authentication/keeping-your-account-and-
 - Enter your github username
   ![Enter github username](/assets/gh_username.png)
 
-After this, select your desired environment that you want to delete -
-![Select Environment to delete](/assets/select_env.png)
+- After this, select your desired environment that you want to delete -
+  ![Select Environment to delete](/assets/select_env.png)
