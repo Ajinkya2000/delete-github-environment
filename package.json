@@ -2,7 +2,14 @@
   "name": "delete-github-environments",
   "version": "1.0.0",
   "description": "Delete environments from Github UI",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
+  "files": [
+    "src",
+    "validations"
+  ],
   "bin": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -18,5 +25,13 @@
   "dependencies": {
     "axios": "^0.24.0",
     "inquirer": "^8.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajinkya2000/delete-github-environments"
+  },
+  "bugs": {
+    "url": "https://github.com/Ajinkya2000/delete-github-environments/issues"
+  },
+  "homepage": "https://github.com/Ajinkya2000/delete-github-environments/"
 }
